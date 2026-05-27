@@ -1,2 +1,5 @@
+[build]
+  publish = "ttareungi"
+
 [functions]
-  directory = "netlify/functions"
+  directory = "ttareungi/netlify/functions"
